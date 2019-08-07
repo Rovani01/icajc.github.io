@@ -1,0 +1,144 @@
+#principal{
+	width: 920px;
+	margin: 0 auto;
+}
+
+#menu-topo{
+	font-size: 1.3em;
+
+}
+a{
+	text-decoration: none;
+}
+
+.logo-principal{
+	background: url(imagens/logo-principal.png) no-repeat;
+	height: 100px;
+	background-size: contain;
+
+}
+#menu{
+	margin: 0 auto;
+
+}
+#rede-social{
+	float: right;
+	margin-right:10px;
+	padding-top:50px;
+}
+#rede-social a{
+	text-decoration: none;
+}
+.faixa-menu{
+	background: blue;
+	height: 50px;
+	text-align: center;
+	line-height:2.2em;
+
+}
+.faixa-menu span {
+	padding: 40px;
+
+}
+.faixa-menu a:hover{
+	background: white;
+	color: blue;
+}
+.faixa-menu a{
+	text-decoration: none;
+	color: white;
+}
+#navegacao-lateral{
+	float: left;
+
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+#navegacao-lateral ul a{
+	width:120px;
+	height: 40px;
+	display: block;
+	line-height: 1.4em;
+	background: url(imagens/faixa-menu-lateral.png) no-repeat left bottom;
+	text-indent: 10px;
+	
+
+
+}	
+#navegacao-lateral ul a:hover{
+	background-position: right bottom;
+	color:white;
+
+}
+#navegacao-lateral ul li{
+	list-style-type: none;
+	font-size: 1.6em;
+	margin-bottom: 25px;
+
+
+
+}
+
+#conteudo{
+
+	width:745px;
+	height: 280px;
+	padding: 10px;
+	display: inline-block;
+	margin-left: 10px;
+	background: url(imagens/capalogo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	
+
+}
+
+#postagens2{
+	font-size: 1.3em;
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
+.fotos{
+	background-color: #e6e6e6;
+	padding: 5px;
+	margin:0 auto;
+}
+.foto1{
+	background: url(imagens/foto6.jpg);
+	background-size: cover;
+	display: inline-block;
+	width: 300px;
+	height: 250px;
+	margin-left: 5px;
+	
+}
+.foto2{
+	background: url(imagens/foto7.jpg);
+	background-size: cover;
+	display: inline-block;
+	width: 200px;
+	height: 250px;
+	margin-left: 5px;
+	
+}
+.foto3{
+	background: url(imagens/foto5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 382px;
+	height: 250px;
+	margin-left: 5px;
+	
+}
+#rodape{
+	background: url(imagens/textura.jpg);
+	background-size: cover;
+	text-align: center;
+
+}
