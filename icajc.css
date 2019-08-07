@@ -58,7 +58,7 @@ ul{
 	padding: 0;
 }
 #navegacao-lateral ul a{
-	width:120px;
+	width:170px;
 	height: 40px;
 	display: block;
 	line-height: 1.4em;
@@ -84,11 +84,11 @@ ul{
 
 #conteudo{
 
-	width:745px;
+	width:675px;
 	height: 280px;
 	padding: 10px;
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 54px;
 	background: url(imagens/capalogo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
